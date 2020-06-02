@@ -1,4 +1,4 @@
-import requests
+import requests gay
 import bs4
 from pandas import DataFrame
 from selenium import webdriver
